@@ -6,11 +6,6 @@ This repository contains documentation for a consultancy report and a frequently
 
 This project aims to enhance the cycling infrastructure in Perth CBD, with the main objective of improving safety for cyclists. The documents contained in this repository are the outcomes of an extensive investigation and consultancy process that involved analyzing road traffic data, cycling incidents, as well as the existing infrastructure.
 
-## Contents
-
-- `Consultancy_Report.pdf` - A comprehensive report presenting our findings, recommendations, and proposed safety measures for the Perth CBD cycling community. 
-- `FAQs.pdf` - Frequently Asked Questions about the project, our approach, and recommendations.
-- `Data/` - A directory containing the raw data and processed datasets used in this project.
 
 ## Getting Started
 
