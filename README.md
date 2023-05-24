@@ -22,11 +22,3 @@ We welcome contributions to this project. Please feel free to raise issues or su
 ## Reporting Issues
 
 If you find any issues with the documents or data, please file an issue in the repository, and we'll address it promptly.
-
-## Contact
-
-If you have specific questions about the project that are not addressed in the FAQ document, you can contact us at `contact@example.com`.
-
-## License
-
-This project is licensed under the terms of the MIT license. See the `LICENSE` file for details.
